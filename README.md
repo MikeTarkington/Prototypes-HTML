@@ -1,5 +1,5 @@
 # Prototypes-HTML
-HTML wireframe files with useless code which are intended merely to display intended function of digiciti.org
+HTML wireframe files with useless code which merely display intended function of digiciti.org
 
 Will be adding instructions on how to view these files and working to host them on GitHub through another repo.
 
